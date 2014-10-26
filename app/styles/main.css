@@ -1,0 +1,63 @@
+#map-page {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 0 auto -40px;
+    padding: 0 0 40px;
+    min-height: 100%;
+    width: 100%;
+    height: 100%;
+    background-color: #28303A;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    background-color: #28303A;
+}
+#map svg {
+    width: 100%;
+    height: 100%;
+}
+
+#water {
+    pointer-events: auto;
+    fill: none;
+}
+.water {
+    fill:#28303A;
+}
+.land {
+    -webkit-transition: all 0.75s;
+    -moz-transition: all 0.75s;
+    -ms-transition: all 0.75s;
+    -o-transition: all 0.75s;
+    transition: all 0.75s;
+    pointer-events:none;
+    /*fill: #212830;*/
+    fill: #182128;
+    fill-opacity:.5;
+    stroke: #28303A;
+    stroke-opacity:0;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-width: 1.5px;
+}
+
+.visible {
+    pointer-events:auto;
+    stroke-opacity: 1;
+}
+.enabled {
+    cursor: pointer;
+    cursor: hand;
+    /*fill: #182128; */
+    fill-opacity:1;
+}
+.invisible {
+    fill-opacity:0;
+}
+
+.highlighted, .selected {
+    fill: #000;
+}
