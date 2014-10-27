@@ -867,7 +867,7 @@
         },
         {
           "type": "Polygon",
-          "id": "-99",
+          "id": "NCP",
           "arcs": [
             [
               216,
@@ -1768,7 +1768,7 @@
         },
         {
           "type": "Polygon",
-          "id": "-99",
+          "id": "KOS",
           "arcs": [
             [
               -17,
@@ -2806,7 +2806,7 @@
         },
         {
           "type": "Polygon",
-          "id": "-99",
+          "id": "WSM",
           "arcs": [
             [
               -263,
@@ -2850,7 +2850,7 @@
             ]
           ],
           "properties": {
-            "name": "Republic of Serbia"
+            "name": "Serbia"
           }
         },
         {
