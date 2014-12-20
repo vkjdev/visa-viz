@@ -1,0 +1,777 @@
+{
+"CountryName":"Visa_requirements_for_Singaporean_citizens",
+"VisaRequirements":[
+{
+	"CountryName":"Afghanistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Albania",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Algeria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Andorra",
+	"VisaStatus":"Visa not required",
+	"Note":""
+},{
+	"CountryName":"Angola",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Antigua and Barbuda",
+	"VisaStatus":"Visa not required",
+	"Note":"1 month"
+},{
+	"CountryName":"Argentina",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Armenia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"120 days. Obtainable on arrival at "
+},{
+	"CountryName":"Australia",
+	"VisaStatus":"Electronic Travel Authority",
+	"Note":"90 days on each visit in 12 month period if granted"
+},{
+	"CountryName":"Austria",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Azerbaijan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Bahamas",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Bahrain",
+	"VisaStatus":"Visa on arrival",
+	"Note":"14 days"
+},{
+	"CountryName":"Bangladesh",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days. Not available at all entry points."
+},{
+	"CountryName":"Barbados",
+	"VisaStatus":"Visa not required",
+	"Note":"6 months"
+},{
+	"CountryName":"Belarus",
+	"VisaStatus":"Visa required",
+	"Note":"Visas are issued on arrival at the "
+},{
+	"CountryName":"Belgium",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Belize",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Benin",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Bhutan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Bolivia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Bosnia and Herzegovina",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Botswana",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days per year"
+},{
+	"CountryName":"Brazil",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Brunei",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Bulgaria",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Burkina Faso",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Burundi",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days. Not available at all entry points."
+},{
+	"CountryName":"Cambodia",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Cameroon",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Canada",
+	"VisaStatus":"Visa not required",
+	"Note":"6 months"
+},{
+	"CountryName":"Cape Verde",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Central African Republic",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Chad",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Chile",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"China",
+	"VisaStatus":"Visa not required",
+	"Note":"15 days"
+},{
+	"CountryName":"Colombia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Comoros",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Republic of the Congo",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Democratic Republic of the Congo",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Costa Rica",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Côte d'Ivoire",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Croatia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Cuba",
+	"VisaStatus":"Visa required !",
+	"Note":""
+},{
+	"CountryName":"Cyprus",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Czech Republic",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Denmark",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Djibouti",
+	"VisaStatus":"Visa on arrival",
+	"Note":"Not available at all entry points."
+},{
+	"CountryName":"Dominica",
+	"VisaStatus":"Visa not required",
+	"Note":"6 months"
+},{
+	"CountryName":"Dominican Republic",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Ecuador",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Egypt",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"El Salvador",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Equatorial Guinea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Eritrea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Estonia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Ethiopia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Fiji",
+	"VisaStatus":"Visa not required",
+	"Note":"4 months"
+},{
+	"CountryName":"Finland",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"France",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Gabon",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Gambia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Georgia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Germany",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Ghana",
+	"VisaStatus":"Visa not required",
+	"Note":""
+},{
+	"CountryName":"Greece",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Grenada",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Guatemala",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Guinea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Guinea-Bissau",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Guyana",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Haiti",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Honduras",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Hungary",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Iceland",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"India",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days; may also obtain online"
+},{
+	"CountryName":"Indonesia",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Iran",
+	"VisaStatus":"Visa on arrival",
+	"Note":"15 days. Conditions apply."
+},{
+	"CountryName":"Iraq",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Ireland",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Israel",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Italy",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Jamaica",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Japan",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Jordan",
+	"VisaStatus":"Visa on arrival",
+	"Note":"Conditions apply."
+},{
+	"CountryName":"Kazakhstan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Kenya",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Kiribati",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"North Korea",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"South Korea",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Kuwait",
+	"VisaStatus":"Visa on arrival",
+	"Note":"3 months"
+},{
+	"CountryName":"Kyrgyzstan",
+	"VisaStatus":"Visa not required",
+	"Note":"60 days"
+},{
+	"CountryName":"Laos",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Latvia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Lebanon",
+	"VisaStatus":"Visa on arrival",
+	"Note":"3 months. Not available at all entry points."
+},{
+	"CountryName":"Lesotho",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Liberia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Libya",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Liechtenstein",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Lithuania",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Luxembourg",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Macedonia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Madagascar",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Malawi",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Malaysia",
+	"VisaStatus":"Visa not required",
+	"Note":"1 month"
+},{
+	"CountryName":"Maldives",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Mali",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Malta",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Marshall Islands",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Mauritania",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Mauritius",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Mexico",
+	"VisaStatus":"Visa not required",
+	"Note":"180 days"
+},{
+	"CountryName":"Micronesia",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Moldova",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Monaco",
+	"VisaStatus":"Visa not required",
+	"Note":""
+},{
+	"CountryName":"Mongolia",
+	"VisaStatus":"Visa not required",
+	"Note":"14 days"
+},{
+	"CountryName":"Montenegro",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Morocco",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Mozambique",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days, conditions apply"
+},{
+	"CountryName":"Myanmar",
+	"VisaStatus":"eVisa",
+	"Note":"28 days. eVisa holders must arrive via "
+},{
+	"CountryName":"Namibia",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Nauru",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Nepal",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Netherlands",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"New Zealand",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Nicaragua",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Niger",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Nigeria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Norway",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Oman",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Pakistan",
+	"VisaStatus":"Visa required",
+	"Note":"Visa on arrival when travelling on business valid for 30 days. Conditions apply."
+},{
+	"CountryName":"Palau",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Panama",
+	"VisaStatus":"Visa not required",
+	"Note":"180 days"
+},{
+	"CountryName":"Papua New Guinea",
+	"VisaStatus":"Visa on arrival",
+	"Note":"60 days"
+},{
+	"CountryName":"Paraguay",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Peru",
+	"VisaStatus":"Visa not required",
+	"Note":"up to 183 days"
+},{
+	"CountryName":"Philippines",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Poland",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Portugal",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Qatar",
+	"VisaStatus":"Visa on arrival",
+	"Note":"1 month"
+},{
+	"CountryName":"Romania",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Russia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Rwanda",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Saint Kitts and Nevis",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Saint Lucia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"6 weeks"
+},{
+	"CountryName":"Saint Vincent and the Grenadines",
+	"VisaStatus":"Visa not required",
+	"Note":"1 month"
+},{
+	"CountryName":"Samoa",
+	"VisaStatus":"Visa on arrival !",
+	"Note":"60 days"
+},{
+	"CountryName":"San Marino",
+	"VisaStatus":"Visa not required",
+	"Note":""
+},{
+	"CountryName":"São Tomé and Príncipe",
+	"VisaStatus":"Visa required",
+	"Note":"Visa is obtained online."
+},{
+	"CountryName":"Saudi Arabia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Senegal",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Serbia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days"
+},{
+	"CountryName":"Seychelles",
+	"VisaStatus":"Visa on arrival !",
+	"Note":"1 month"
+},{
+	"CountryName":"Sierra Leone",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Slovakia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Slovenia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Solomon Islands",
+	"VisaStatus":"Visa on arrival !",
+	"Note":"3 months"
+},{
+	"CountryName":"Somalia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days, must hold an invitation letter issued at least 2 days before arrival."
+},{
+	"CountryName":"South Africa",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"South Sudan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Spain",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Sri Lanka",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days free of charge, extendable for another 150 days"
+},{
+	"CountryName":"Sudan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Suriname",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Swaziland",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Sweden",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Switzerland",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days within 180 days in the "
+},{
+	"CountryName":"Syria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Tajikistan",
+	"VisaStatus":"Visa on arrival",
+	"Note":"45 days"
+},{
+	"CountryName":"Tanzania",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Thailand",
+	"VisaStatus":"Visa not required",
+	"Note":"1 month"
+},{
+	"CountryName":"Timor-Leste",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days. Not available at all entry points."
+},{
+	"CountryName":"Togo",
+	"VisaStatus":"Visa on arrival",
+	"Note":"7 days"
+},{
+	"CountryName":"Tonga",
+	"VisaStatus":"Visa on arrival",
+	"Note":"31 days"
+},{
+	"CountryName":"Trinidad and Tobago",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Tunisia",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Turkey",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Turkmenistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Tuvalu",
+	"VisaStatus":"Visa on arrival",
+	"Note":"1 month"
+},{
+	"CountryName":"Uganda",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Ukraine",
+	"VisaStatus":"Visa required",
+	"Note":"Invitation letter is not required for Singaporean citizens."
+},{
+	"CountryName":"United Arab Emirates",
+	"VisaStatus":"Visa on arrival",
+	"Note":"1 month"
+},{
+	"CountryName":"United Kingdom",
+	"VisaStatus":"Visa not required",
+	"Note":"6 months"
+},{
+	"CountryName":"United States",
+	"VisaStatus":"Visa not required !",
+	"Note":"90 days on arrival from overseas for 2 years, "
+},{
+	"CountryName":"Uruguay",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Uzbekistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Vanuatu",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Vatican City",
+	"VisaStatus":"Visa not required",
+	"Note":""
+},{
+	"CountryName":"Venezuela",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Vietnam",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Yemen",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Zambia",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Zimbabwe",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},
+]}

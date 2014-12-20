@@ -1,0 +1,780 @@
+{
+"CountryName":"Visa_requirements_for_Indian_citizens",
+"VisaRequirements":[
+{
+	"CountryName":"Afghanistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Albania",
+	"VisaStatus":"Visa required",
+	"Note":"Visa required, except for A max. stay of 90 days for holders of a valid multiple entry visa issued by the USA, UK or a valid multiple entry C visa issued by a Schengen Member"
+},{
+	"CountryName":"Algeria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Andorra",
+	"VisaStatus":"De facto Visa required",
+	"Note":"Andorra has no visa regime, but is only accessible through France and Spain. Multiple Entry Schengen Visa required."
+},{
+	"CountryName":"Angola",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Antigua and Barbuda",
+	"VisaStatus":"Visa required",
+	"Note":"Visa not required if holding a valid visa or permanent resident card for the US or Canada"
+},{
+	"CountryName":"Argentina",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Armenia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Australia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Austria",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Azerbaijan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Bahamas",
+	"VisaStatus":"Visa required",
+	"Note":"Visa not required if holding permanent resident card of the US or Canada"
+},{
+	"CountryName":"Bahrain",
+	"VisaStatus":"eVisa",
+	"Note":"14 days."
+},{
+	"CountryName":"Bangladesh",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Barbados",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Belarus",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Belgium",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Belize",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Benin",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Bhutan",
+	"VisaStatus":"Visa not required",
+	"Note":""
+},{
+	"CountryName":"Bolivia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Bosnia and Herzegovina",
+	"VisaStatus":"Visa required",
+	"Note":"Visa required, except for A max. stay of 7 days for:
+"
+},{
+	"CountryName":"Botswana",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Brazil",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Brunei",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Bulgaria",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for a maximum stay of 90 days for valid visa holders and residents of the "
+},{
+	"CountryName":"Burkina Faso",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Burundi",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days; obtainable at "
+},{
+	"CountryName":"Cambodia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Cameroon",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Canada",
+	"VisaStatus":"Visa required",
+	"Note":"Visa not required if holding a US permanent resident card"
+},{
+	"CountryName":"Cape Verde",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Central African Republic",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Chad",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Chile",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"China",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Colombia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Comoros",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Republic of the Congo",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Democratic Republic of the Congo",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Costa Rica",
+	"VisaStatus":"Visa required",
+	"Note":"Visa required, except for A max. stay of 30 days for:
+"
+},{
+	"CountryName":"Côte d'Ivoire",
+	"VisaStatus":"eVisa",
+	"Note":"3 months; eVisa holders must arrive via "
+},{
+	"CountryName":"Croatia",
+	"VisaStatus":"Visa required",
+	"Note":"Aliens who are holders of:
+"
+},{
+	"CountryName":"Cuba",
+	"VisaStatus":"Visa required",
+	"Note":"The visitors can obtain a Tourist Card ("
+},{
+	"CountryName":"Cyprus",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Czech Republic",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Denmark",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Djibouti",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Dominica",
+	"VisaStatus":"Visa not required",
+	"Note":"6 months"
+},{
+	"CountryName":"Dominican Republic",
+	"VisaStatus":"Visa required",
+	"Note":"Visa required, except for A max. stay of 90 days for holders of a valid visa issued by Canada, USA or any EU Member State"
+},{
+	"CountryName":"Ecuador",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Egypt",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"El Salvador",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Equatorial Guinea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Eritrea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Estonia",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Ethiopia",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Fiji",
+	"VisaStatus":"Visa not required",
+	"Note":"4 months"
+},{
+	"CountryName":"Finland",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"France",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Gabon",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Gambia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Georgia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Germany",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Ghana",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Greece",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Grenada",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Guatemala",
+	"VisaStatus":"Visa required",
+	"Note":"Visa not required for holders of a valid visa issued by Canada, the USA or a Schengen Member State."
+},{
+	"CountryName":"Guinea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Guinea-Bissau",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Guyana",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days provided holding confirmation, issued by the Ministry of Home Affairs"
+},{
+	"CountryName":"Haiti",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Honduras",
+	"VisaStatus":"Visa required",
+	"Note":"Visa required, except for Holders of a valid visa issued by Canada, the USA or a Schengen Member State"
+},{
+	"CountryName":"Hungary",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Iceland",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Indonesia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Iran",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Iraq",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Ireland",
+	"VisaStatus":"Visa required",
+	"Note":"Visa waiver for "
+},{
+	"CountryName":"Israel",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Italy",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Jamaica",
+	"VisaStatus":"Visa not required",
+	"Note":""
+},{
+	"CountryName":"Japan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Jordan",
+	"VisaStatus":"Visa on arrival",
+	"Note":"2 weeks, must hold US$ 3000"
+},{
+	"CountryName":"Kazakhstan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Kenya",
+	"VisaStatus":"Visa on arrival",
+	"Note":"3 months"
+},{
+	"CountryName":"Kiribati",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"North Korea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"South Korea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Kuwait",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Kyrgyzstan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Laos",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Latvia",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Lebanon",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Lesotho",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Liberia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Libya",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Liechtenstein",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Lithuania",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Luxembourg",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Macedonia",
+	"VisaStatus":"Visa required",
+	"Note":"Any foreign national possessing a valid multi entry Schengen visa type C (valid for the entire territory of the Schengen area) may enter and stay in the Republic of Macedonia up to 15 days without having to possess a Macedonian visa. The Schengen visa needs to be valid at least 5 days longer than the stay in the Republic of Macedonia permitted on the grounds of holding a Schengen visa.,"
+},{
+	"CountryName":"Madagascar",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Malawi",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Malaysia",
+	"VisaStatus":"Visa required",
+	"Note":"Visa on arrival under certain conditions."
+},{
+	"CountryName":"Maldives",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Mali",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Malta",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Marshall Islands",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Mauritania",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Mauritius",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Mexico",
+	"VisaStatus":"Visa required",
+	"Note":"180 days. Visa not required for long-term US visa holders (e.g. H, L, F, J, B1/B2 etc.)"
+},{
+	"CountryName":"Micronesia",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Moldova",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Monaco",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Mongolia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Montenegro",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Morocco",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Mozambique",
+	"VisaStatus":"Visa required",
+	"Note":"Visa on arrival is no longer available to citizens of countries that host an embassy of Mozambique."
+},{
+	"CountryName":"Myanmar",
+	"VisaStatus":"eVisa",
+	"Note":"28 days. eVisa holders must arrive via "
+},{
+	"CountryName":"Namibia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Nauru",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Nepal",
+	"VisaStatus":"Freedom of movement",
+	"Note":"Indian citizens may live and work freely in Nepal under the terms of the "
+},{
+	"CountryName":"Netherlands",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"New Zealand",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Nicaragua",
+	"VisaStatus":"Visa required",
+	"Note":"Stay of 90 days (Fee: USD 20) applicable to holders of a valid visa issued by Canada, the USA or a Schengen Member State"
+},{
+	"CountryName":"Niger",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Nigeria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Norway",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Oman",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Pakistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Palau",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Panama",
+	"VisaStatus":"Visa required",
+	"Note":"Visa requirement waived for holders of a valid visa issued by USA, UK, Canada, Australia or any EU member state, which has been used at least once to enter those countries."
+},{
+	"CountryName":"Papua New Guinea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Paraguay",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Peru",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Philippines",
+	"VisaStatus":"Visa required",
+	"Note":"Holders of PR status from USA, Singapore, UK, Australia or Long term working visa from USA, UK, Singapore, Australia, Japan, Canada, Schengen are exempted"
+},{
+	"CountryName":"Poland",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Portugal",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Qatar",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Romania",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Russia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Rwanda",
+	"VisaStatus":"eVisa",
+	"Note":""
+},{
+	"CountryName":"Saint Kitts and Nevis",
+	"VisaStatus":"Visa not required",
+	"Note":"3 months"
+},{
+	"CountryName":"Saint Lucia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"6 weeks"
+},{
+	"CountryName":"Saint Vincent and the Grenadines",
+	"VisaStatus":"Visa not required",
+	"Note":"1 month"
+},{
+	"CountryName":"Samoa",
+	"VisaStatus":"Visa on arrival !",
+	"Note":"60 days"
+},{
+	"CountryName":"San Marino",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"São Tomé and Príncipe",
+	"VisaStatus":"eVisa",
+	"Note":""
+},{
+	"CountryName":"Saudi Arabia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Senegal",
+	"VisaStatus":"eVisa",
+	"Note":""
+},{
+	"CountryName":"Serbia",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for a maximum stay of 90 days for valid visa holders and residents of the "
+},{
+	"CountryName":"Seychelles",
+	"VisaStatus":"Visa on arrival !",
+	"Note":"1 month"
+},{
+	"CountryName":"Sierra Leone",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Singapore",
+	"VisaStatus":"Visa required",
+	"Note":"May obtain online."
+},{
+	"CountryName":"Slovakia",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Slovenia",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Solomon Islands",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Somalia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days, provided an invitation letter issued by the sponsor has been submitted"
+},{
+	"CountryName":"South Africa",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"South Sudan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Spain",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Sri Lanka",
+	"VisaStatus":"Electronic Travel Authorisation",
+	"Note":"30 days"
+},{
+	"CountryName":"Sudan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Suriname",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Swaziland",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Sweden",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Switzerland",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen Visa required"
+},{
+	"CountryName":"Syria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Tajikistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Tanzania",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Thailand",
+	"VisaStatus":"Visa on arrival",
+	"Note":"15 days. Visa fee of 1000 Thai Baht needs to be paid in Thai currency. Visa on Arrival has to be obtained at First point of Entry/Landing not the Final Destination."
+},{
+	"CountryName":"Timor-Leste",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Togo",
+	"VisaStatus":"Visa on arrival",
+	"Note":"7 days"
+},{
+	"CountryName":"Tonga",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Trinidad and Tobago",
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
+},{
+	"CountryName":"Tunisia",
+	"VisaStatus":"Visa required",
+	"Note":"Not required for tours organised by a travel agency."
+},{
+	"CountryName":"Turkey",
+	"VisaStatus":"Visa required",
+	"Note":"Visa on arrival is phased out and e-visa needs to be applied use "
+},{
+	"CountryName":"Turkmenistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Tuvalu",
+	"VisaStatus":"Visa on arrival",
+	"Note":"1 month"
+},{
+	"CountryName":"Uganda",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Ukraine",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"United Arab Emirates",
+	"VisaStatus":"Visa required",
+	"Note":"Tourist visa can be obtained online through Emirates and Etihad airlines."
+},{
+	"CountryName":"United Kingdom",
+	"VisaStatus":"Visa required",
+	"Note":"Visa not required if holding a valid Irish visa."
+},{
+	"CountryName":"United States",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Uruguay",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Uzbekistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Vanuatu",
+	"VisaStatus":"Visa not required",
+	"Note":"30 days"
+},{
+	"CountryName":"Vatican City",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Venezuela",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Vietnam",
+	"VisaStatus":"Visa required",
+	"Note":"Visa may be obtained on arrival if prior Online approval has been obtained through a travel agency."
+},{
+	"CountryName":"Yemen",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Zambia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Zimbabwe",
+	"VisaStatus":"eVisa",
+	"Note":""
+},
+]}

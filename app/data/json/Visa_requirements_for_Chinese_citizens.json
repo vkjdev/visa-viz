@@ -1,0 +1,777 @@
+{
+"CountryName":"Visa_requirements_for_Chinese_citizens",
+"VisaRequirements":[
+{
+	"CountryName":"Afghanistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Albania",
+	"VisaStatus":"Visa required",
+	"Note":"Schengen visa is valid."
+},{
+	"CountryName":"Algeria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Andorra",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Angola",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Antigua and Barbuda",
+	"VisaStatus":"Visa free",
+	"Note":"30 days, since November 18, 2014"
+},{
+	"CountryName":"Argentina",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Armenia",
+	"VisaStatus":"Visa requiredl",
+	"Note":"Must apply for visa at Armenian diplomatic post abroad but exempt from invitation requirement."
+},{
+	"CountryName":"Australia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Austria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Azerbaijan",
+	"VisaStatus":"Visa free",
+	"Note":"30 days"
+},{
+	"CountryName":"Bahamas",
+	"VisaStatus":"Visa free",
+	"Note":"30 days"
+},{
+	"CountryName":"Bahrain",
+	"VisaStatus":"Visa on arrival",
+	"Note":"14 days"
+},{
+	"CountryName":"Bangladesh",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Barbados",
+	"VisaStatus":"Visa required",
+	"Note":""Cruise ship passengers in transit from airport to cruise terminal and vice versa" and cruise passengers "arriving and departing on the said [same?] vessel" are visa exempt as are transit passengers not leaving the airport."
+},{
+	"CountryName":"Belarus",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free when traveling as part of a tourist group that has been organized through a Tourist Agency of Belarus."
+},{
+	"CountryName":"Belgium",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Belize",
+	"VisaStatus":"Visa required",
+	"Note":"Cruise passengers do not require a visa."
+},{
+	"CountryName":"Benin",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Bhutan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Bolivia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Bosnia and Herzegovina",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for normal passports endorsed "For Public Affairs"."
+},{
+	"CountryName":"Botswana",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Brazil",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Brunei",
+	"VisaStatus":"Visa required",
+	"Note":"Visa on arrival for a maximum stay of 14 days, when traveling for touristic purposes and traveling as part of a package booked through a travel agency or business purposes and holding letter of invitation from sponsor."
+},{
+	"CountryName":"Bulgaria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Burkina Faso",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Burundi",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days; obtainable at "
+},{
+	"CountryName":"Cambodia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days on arrival, or ETA online"
+},{
+	"CountryName":"Cameroon",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Canada",
+	"VisaStatus":"Visa required",
+	"Note":"No transit visa required if transiting Toronto Pearson Terminal 1 or Vancouver International Airports to or from the U.S. on same travel day (no overnight stay) while holding valid U.S. visa and travelling on Air Canada."
+},{
+	"CountryName":"Cape Verde",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Central African Republic",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Chad",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Chile",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Colombia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Comoros",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Republic of the Congo",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Democratic Republic of the Congo",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Costa Rica",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for holders of valid visa for Canada, Schengen area or the US, and for holders of a Residence Permit issued by United Kingdom."
+},{
+	"CountryName":"Côte d'Ivoire",
+	"VisaStatus":"eVisa",
+	"Note":"3 months; eVisa holders must arrive via "
+},{
+	"CountryName":"Croatia",
+	"VisaStatus":"Visa required",
+	"Note":"Visa exempt for holders of a visa issued by a Schengen Member State and a travel health insurance. Passenger must travel as a tourist in an organised group and arrive from a Schengen Member State."
+},{
+	"CountryName":"Cuba",
+	"VisaStatus":"Tourist card required",
+	"Note":"Normally available from travel agencies or airlines to authorize 30 day stays"
+},{
+	"CountryName":"Cyprus",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Czech Republic",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Denmark",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Djibouti",
+	"VisaStatus":"Visa on arrival",
+	"Note":"1 month"
+},{
+	"CountryName":"Dominica",
+	"VisaStatus":"Visa free",
+	"Note":"21 days"
+},{
+	"CountryName":"Dominican Republic",
+	"VisaStatus":"Visa required",
+	"Note":"Holders of a visa issued by Canada, U.S.A. or any European Union member state will be issued a Tourist Card for a stay of max. 30 days. max 90 days for UK resident."
+},{
+	"CountryName":"Ecuador",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for normal passports endorsed "For Public Affairs"."
+},{
+	"CountryName":"Egypt",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"El Salvador",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Equatorial Guinea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Eritrea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Estonia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Ethiopia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"6 months"
+},{
+	"CountryName":"Fiji",
+	"VisaStatus":"Visa free",
+	"Note":"4 months"
+},{
+	"CountryName":"Finland",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"France",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Gabon",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Gambia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Georgia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Germany",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Ghana",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Greece",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Grenada",
+	"VisaStatus":"Visa required",
+	"Note":"Cruise ship passengers who intend to remain for less than 24 hours do not require a visa."
+},{
+	"CountryName":"Guatemala",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Guinea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Guinea-Bissau",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Guyana",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for 3 months, for normal passports endorsed "For Public Affairs"."
+},{
+	"CountryName":"Haiti",
+	"VisaStatus":"Visa free",
+	"Note":"3 months"
+},{
+	"CountryName":"Honduras",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for holders of a visa valid for at least 6 months issued by Canada, the USA, or a Schengen Member State, and for residents of the UK, Japan, Singapore, Australia and New Zealand."
+},{
+	"CountryName":"Hungary",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Iceland",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"India",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Indonesia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days. Visa waiver for Chinese citizens formally announced by Indonesia Tourism Minister, on November 5, 2014, date of implementation starting January 2015."
+},{
+	"CountryName":"Iran",
+	"VisaStatus":"Visa on arrival",
+	"Note":"15 days"
+},{
+	"CountryName":"Iraq",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Ireland",
+	"VisaStatus":"Visa required",
+	"Note":"Visa waiver for "
+},{
+	"CountryName":"Israel",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Italy",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Jamaica",
+	"VisaStatus":"Visa free",
+	"Note":"30 days"
+},{
+	"CountryName":"Japan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Jordan",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Kazakhstan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Kenya",
+	"VisaStatus":"Visa on arrival",
+	"Note":"3 months"
+},{
+	"CountryName":"Kiribati",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"North Korea",
+	"VisaStatus":"Visa required",
+	"Note":"Chinese tourists may visit "
+},{
+	"CountryName":"South Korea",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for visits to "
+},{
+	"CountryName":"Kuwait",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for 30 days, for normal passports endorsed "For Public Affairs"."
+},{
+	"CountryName":"Kyrgyzstan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Laos",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Latvia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Lebanon",
+	"VisaStatus":"Visa on arrival",
+	"Note":"3 months"
+},{
+	"CountryName":"Lesotho",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Liberia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Libya",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Liechtenstein",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Lithuania",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Luxembourg",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Macedonia",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for a maximum stay of 90 days for holders of normal passports endorsed "business"."
+},{
+	"CountryName":"Madagascar",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Malawi",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Malaysia",
+	"VisaStatus":"Visa required",
+	"Note":"Visa on arrival under certain conditions."
+},{
+	"CountryName":"Maldives",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Mali",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Malta",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Marshall Islands",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Mauritania",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Mauritius",
+	"VisaStatus":"Visa free",
+	"Note":"90 days"
+},{
+	"CountryName":"Mexico",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for Canadian or UK permanent residents or holder of valid USA visa. Also visa free for all visiting "through maritime ports as passengers in tourism cruises""
+},{
+	"CountryName":"Micronesia",
+	"VisaStatus":"Visa free",
+	"Note":"30 days"
+},{
+	"CountryName":"Moldova",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Monaco",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Mongolia",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for 30 days, for normal passports endorsed "For Public Affairs"."
+},{
+	"CountryName":"Montenegro",
+	"VisaStatus":"Visa required",
+	"Note":"Max. stay of 7 days for Holders of a valid Schengen visa, a valid visa of the United States of America / UK or a permission to stay in these countries."
+},{
+	"CountryName":"Morocco",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Mozambique",
+	"VisaStatus":"Visa required",
+	"Note":"Visa on arrival is no longer available to citizens of countries that host an embassy of Mozambique."
+},{
+	"CountryName":"Myanmar",
+	"VisaStatus":"eVisa",
+	"Note":"28 days. eVisa holders must arrive via "
+},{
+	"CountryName":"Namibia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Nauru",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Nepal",
+	"VisaStatus":"Visa on arrival",
+	"Note":"90 days"
+},{
+	"CountryName":"Netherlands",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"New Zealand",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free if having a current Australian permanent residence visa or a current Australian resident return visa"
+},{
+	"CountryName":"Nicaragua",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Niger",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Nigeria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Norway",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Oman",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Pakistan",
+	"VisaStatus":"Visa required",
+	"Note":"Visa on arrival when travelling on business valid for 30 days. Conditions apply."
+},{
+	"CountryName":"Palau",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Panama",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for 30 days, for normal passports endorsed "For Public Affairs". Visa exempted for a max. stay of 30 days for holders of a valid visa for Andorra, Australia, Canada, Iceland, Monaco, Liechtenstein, Norway, San Marino, Switzerland, USA or an EU Member State, 30 days for UK permanent residents."
+},{
+	"CountryName":"Papua New Guinea",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Paraguay",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Peru",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for normal passports endorsed "For Public Affairs"."
+},{
+	"CountryName":"Philippines",
+	"VisaStatus":"Visa required",
+	"Note":"Visa-free 7 days if a tourist and holding a valid visa for Schengen countries, Australia, Canada, Japan or the USA."
+},{
+	"CountryName":"Poland",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Portugal",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Qatar",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Romania",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Russia",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for a maximum stay of 15 days for visitors travelling as part of a tour group (5 to 50 persons), accompanied by a representative of a tour operator accredited in both Russia and China. Visa free for 30 days, for diplomatic and service passports. (since April 26, 2014)"
+},{
+	"CountryName":"Rwanda",
+	"VisaStatus":"eVisa",
+	"Note":"90 days"
+},{
+	"CountryName":"Saint Kitts and Nevis",
+	"VisaStatus":"eVisa",
+	"Note":"30 days"
+},{
+	"CountryName":"Saint Lucia",
+	"VisaStatus":"Visa required",
+	"Note":"Cruise ship passengers visiting for one day are visa exempt"
+},{
+	"CountryName":"Saint Vincent and the Grenadines",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Samoa",
+	"VisaStatus":"Visa on arrival !",
+	"Note":"60 days"
+},{
+	"CountryName":"San Marino",
+	"VisaStatus":"Visa free",
+	"Note":"90 days"
+},{
+	"CountryName":"São Tomé and Príncipe",
+	"VisaStatus":"eVisa",
+	"Note":"30 days"
+},{
+	"CountryName":"Saudi Arabia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Senegal",
+	"VisaStatus":"eVisa",
+	"Note":"90 days"
+},{
+	"CountryName":"Serbia",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for a maximum stay of 90 days for holders of normal passports endorsed "business". Visa free for a maximum stay of 90 days for valid visa holders and residents of the "
+},{
+	"CountryName":"Seychelles",
+	"VisaStatus":"Visa free",
+	"Note":"1 month"
+},{
+	"CountryName":"Sierra Leone",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Singapore",
+	"VisaStatus":"eVisa",
+	"Note":"Visa free for 30 days, for normal passports endorsed "For Public Affairs"."
+},{
+	"CountryName":"Slovakia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Slovenia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Solomon Islands",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Somalia",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days, provided an invitation letter issued by the sponsor has been submitted"
+},{
+	"CountryName":"South Africa",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"South Sudan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Spain",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Sri Lanka",
+	"VisaStatus":"Electronic Travel Authorization",
+	"Note":"30 days"
+},{
+	"CountryName":"Sudan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Suriname",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Swaziland",
+	"VisaStatus":"Visa free",
+	"Note":"90 days"
+},{
+	"CountryName":"Sweden",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Switzerland",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Syria",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Tajikistan",
+	"VisaStatus":"Visa on arrival",
+	"Note":"45 days"
+},{
+	"CountryName":"Tanzania",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Thailand",
+	"VisaStatus":"Visa on arrival",
+	"Note":"15 days"
+},{
+	"CountryName":"Timor-Leste",
+	"VisaStatus":"Visa on arrival",
+	"Note":"30 days"
+},{
+	"CountryName":"Togo",
+	"VisaStatus":"Visa on arrival",
+	"Note":"7 days"
+},{
+	"CountryName":"Tonga",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Trinidad and Tobago",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Tunisia",
+	"VisaStatus":"Visa required",
+	"Note":"Visa not required for tourists travelling as part of an organized group with a tourist agency."
+},{
+	"CountryName":"Turkey",
+	"VisaStatus":"Visa required",
+	"Note":"e-Visas are issued to holders of a valid visa or residence permit from Schengen or "
+},{
+	"CountryName":"Turkmenistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Tuvalu",
+	"VisaStatus":"Visa on arrival",
+	"Note":"1 month"
+},{
+	"CountryName":"Uganda",
+	"VisaStatus":"Visa on arrival",
+	"Note":""
+},{
+	"CountryName":"Ukraine",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"United Arab Emirates",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"United Kingdom",
+	"VisaStatus":"Visa required",
+	"Note":"Visa not required if holding a valid Irish visa."
+},{
+	"CountryName":"United States",
+	"VisaStatus":"Visa required",
+	"Note":"Chinese citizens who do receive a visa are normally issued "120-month multiple-entry combination "
+},{
+	"CountryName":"Uruguay",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Uzbekistan",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Vanuatu",
+	"VisaStatus":"Visa free",
+	"Note":"30 days"
+},{
+	"CountryName":"Vatican City",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Venezuela",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for 30 days, for diplomatic, service passports and normal passports endorsed "for public affairs". (since January 8, 2014)"
+},{
+	"CountryName":"Vietnam",
+	"VisaStatus":"Visa required",
+	"Note":"Visa free for 30 days, for normal passports endorsed "For Public Affairs"."
+},{
+	"CountryName":"Yemen",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Zambia",
+	"VisaStatus":"Visa required",
+	"Note":""
+},{
+	"CountryName":"Zimbabwe",
+	"VisaStatus":"eVisa",
+	"Note":""
+},
+]}
