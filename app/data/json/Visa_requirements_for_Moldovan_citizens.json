@@ -1,5 +1,6 @@
 {
 "CountryName":"Visa_requirements_for_Moldovan_citizens",
+"WikiLink":"en.wikipedia.org/wiki/Visa_requirements_for_Moldovan_citizens",
 "VisaRequirements":[
 {
 	"CountryName":"Afghanistan",
@@ -324,7 +325,7 @@
 },{
 	"CountryName":"Israel",
 	"VisaStatus":"Visa not required",
-	"Note":"90 days"
+	"Note":"90 days. Biometric passports only."
 },{
 	"CountryName":"Italy",
 	"VisaStatus":"Visa not required",

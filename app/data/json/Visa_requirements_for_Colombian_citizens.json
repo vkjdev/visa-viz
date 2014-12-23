@@ -1,5 +1,6 @@
 {
 "CountryName":"Visa_requirements_for_Colombian_citizens",
+"WikiLink":"en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens",
 "VisaRequirements":[
 {
 	"CountryName":"Afghanistan",
@@ -71,8 +72,8 @@
 	"Note":""
 },{
 	"CountryName":"Belize",
-	"VisaStatus":"Visa required",
-	"Note":""
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
 },{
 	"CountryName":"Benin",
 	"VisaStatus":"Visa required",

@@ -1,5 +1,6 @@
 {
 "CountryName":"Visa_requirements_for_Japanese_citizens",
+"WikiLink":"en.wikipedia.org/wiki/Visa_requirements_for_Japanese_citizens",
 "VisaRequirements":[
 {
 	"CountryName":"Afghanistan",
@@ -71,8 +72,8 @@
 	"Note":"90 days within 180 days in the "
 },{
 	"CountryName":"Belize",
-	"VisaStatus":"Visa required",
-	"Note":""
+	"VisaStatus":"Visa not required",
+	"Note":"90 days"
 },{
 	"CountryName":"Benin",
 	"VisaStatus":"Visa required",

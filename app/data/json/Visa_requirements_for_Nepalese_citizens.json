@@ -1,5 +1,6 @@
 {
 "CountryName":"Visa_requirements_for_Nepalese_citizens",
+"WikiLink":"en.wikipedia.org/wiki/Visa_requirements_for_Nepalese_citizens",
 "VisaRequirements":[
 {
 	"CountryName":"Afghanistan",
@@ -615,7 +616,7 @@
 	"Note":""
 },{
 	"CountryName":"Singapore",
-	"VisaStatus":"Visa on arrival",
+	"VisaStatus":"Visa not required",
 	"Note":"30 days"
 },{
 	"CountryName":"Slovakia",

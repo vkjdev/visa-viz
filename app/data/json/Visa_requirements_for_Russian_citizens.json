@@ -1,5 +1,6 @@
 {
 "CountryName":"Visa_requirements_for_Russian_citizens",
+"WikiLink":"en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
 "VisaRequirements":[
 {
 	"CountryName":"Afghanistan",
@@ -732,7 +733,7 @@
 },{
 	"CountryName":"United Kingdom",
 	"VisaStatus":"Visa required",
-	"Note":"24-hours visa free visit when in transit "
+	"Note":""
 },{
 	"CountryName":"United States",
 	"VisaStatus":"Visa required",

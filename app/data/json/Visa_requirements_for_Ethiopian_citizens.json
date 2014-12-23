@@ -1,5 +1,6 @@
 {
 "CountryName":"Visa_requirements_for_Ethiopian_citizens",
+"WikiLink":"en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens",
 "VisaRequirements":[
 {
 	"CountryName":"Afghanistan",
@@ -519,7 +520,7 @@
 	"Note":""
 },{
 	"CountryName":"Oman",
-	"VisaStatus":"Visa on arrival",
+	"VisaStatus":"Visa required",
 	"Note":""
 },{
 	"CountryName":"Pakistan",
